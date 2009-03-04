@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: pdo_xml - Win32 Release_TS--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~2\ANTONP~1\LOCALS~1\Temp\RSP8CC.tmp" with contents
+[
+php5ts.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:no /pdb:"Release_TS/php_pdo_xml.pdb" /machine:I386 /out:"..\..\Release_TS\php_pdo_xml.dll" /implib:"Release_TS/php_pdo_xml.lib" /libpath:"..\..\Release_TS" /libpath:"..\..\Release_TS_Inline" 
+".\Release_TS\pdo_xml.obj"
+]
+Creating command line "link.exe @C:\DOCUME~2\ANTONP~1\LOCALS~1\Temp\RSP8CC.tmp"
+<h3>Output Window</h3>
+Linking...
+   Creating library Release_TS/php_pdo_xml.lib and object Release_TS/php_pdo_xml.exp
+
+
+
+<h3>Results</h3>
+php_pdo_xml.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

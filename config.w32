@@ -1,0 +1,8 @@
+// $ Id: $
+// vim:ft=javascript
+
+ARG_ENABLE('pdo_xml' , 'The unknown extension', 'no');
+if (PHP_PDO_XML == "yes") {
+  EXTENSION("pdo_xml", "pdo_xml.c");
+  AC_DEFINE("HAVE_PDO_XML", 1, "pdo_xml support");
+}
