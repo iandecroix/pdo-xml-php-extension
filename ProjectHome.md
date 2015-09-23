@@ -1,0 +1,1 @@
+PdoXml is an fast and easy to use PHP extension writen in C for export results from PHP PDO queries to XML. You can create XML document from database, export MySQL, PostgreSQL or other PHP supported databases to XML. Support both Windows and Linux.
